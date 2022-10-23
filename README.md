@@ -1,1 +1,1 @@
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=monokai)
