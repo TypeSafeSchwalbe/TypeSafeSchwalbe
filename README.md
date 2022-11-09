@@ -16,14 +16,14 @@
            @@           RoseQuartz Game Engine
          @@&&@@         https://devtaube.itch.io/rosequartz
        @@#&&&&&@@       
-       @&&##&@@##       RoseQuartz is a game engine with Java scripting
-       @@@&&@##&&       that allows you to easily bring your game to Windows,
-       @&&@@@&&##       Linux and HTML5. Depending on how you use it,
-       &##&&@##@@       you can make a 2D or a 3D game.
-       @&&##@@@##       
+       @&&##&@@##       RoseQuartz is a game engine for Java that allows you
+       @@@&&@##&&       to easily bring your game to Windows, Linux and HTML5.
+       @&&@@@&&##       
+       &##&&@##@@       Check out a game made with RoseQuartz:
+       @&&##@@@##       https://devtaube.itch.io/countryside
        @&&&&@####       
-         &&&###         Check out a game made with RoseQuartz:
-           &#           https://devtaube.itch.io/countryside
+         &&&###         Check out examples for RoseQuartz:
+           &#           https://github.com/devtaube/rosequartz-examples
                         
 ```
 ```
