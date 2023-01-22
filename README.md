@@ -38,6 +38,7 @@ Its design focusses on simplicity and consistency.
 ```
 - [Itch.io](https://devtaube.itch.io/rosequartz)
 - [Game made with RoseQuartz (Itch.io)](https://devtaube.itch.io/countryside)
+- [Game made with RoseQuartz (Repository)](https://github.com/devtaube/countryside)
 - [Examples repository](https://github.com/devtaube/rosequartz-examples)
 ---
 # NanoCAD
