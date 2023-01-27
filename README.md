@@ -22,7 +22,7 @@ Its design focusses on simplicity and consistency.
 ---
 # Blueberry.crn Game Library
 ```
-Blueberry.crn is a library for 2D graphics, user input and spacial audio for the Currant programming language.
+Blueberry.crn is a library for 2D graphics, user input and spacial audio on the web for the Currant programming language.
 ```
 - [Repository](https://github.com/devtaube/blueberry.crn)
 ---
