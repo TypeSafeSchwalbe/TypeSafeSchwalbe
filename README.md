@@ -1,5 +1,1 @@
-<p align="center">
-    I am that dude that can't stop making programming languages.
-    <br><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typesafeschwalbe&show_icons=true&theme=transparent">
-</p>
+hey look it's that dude who can't stop making programming languages all the time
